@@ -1,0 +1,30 @@
+.card-largura{
+    max-width: 18rem;
+}
+.imagen-carrossel-um{
+    object-fit: cover;
+    object-position: 0 90%;
+    height: 400px;
+}
+.imagen-carrossel-dois{
+    object-fit: cover;
+    height: 400px;
+}
+.fonte-title{
+    font-family: 'Pacifico', cursive;
+}
+.cor-especial{
+    color: darkred !important
+    ;
+}
+.botão-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+.borda-cor-especial{
+    border-color: darkred;
+}
+.card-posição-imagem{
+    object-fit: cover;
+    height: 200px;
+}
